@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-const API = "http://localhost:8000";
+const API = import.meta.env.VITE_API_URL||"http://localhost:8000";
 
 async function post(path, body) {
   const r = await fetch(API + path, {
