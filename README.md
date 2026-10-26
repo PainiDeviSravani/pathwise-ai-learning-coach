@@ -59,7 +59,6 @@ That last part is what we're proudest of. The plan responds to how your week act
  |
 
 | Quiz |
-|---|---|
 | 
 
 ![Quiz](<img width="1512" height="727" alt="image" src="https://github.com/user-attachments/assets/9aa67742-ecd7-4bd1-9eba-40d52ece92bb" />)
@@ -69,10 +68,8 @@ That last part is what we're proudest of. The plan responds to how your week act
  |
 
 | Re-plan after a rough week |
-|---|
 | 
-
-![Replan](<img width="1513" height="726" alt="image" src="https://github.com/user-attachments/assets/b201c017-32e9-4113-990d-512c2252af4c" />)
+(<img width="1513" height="726" alt="image" src="https://github.com/user-attachments/assets/b201c017-32e9-4113-990d-512c2252af4c" />)
 
  |
 
