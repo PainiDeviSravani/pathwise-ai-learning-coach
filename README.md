@@ -129,7 +129,7 @@ We'd rather you hear these from us:
 
 ## The team
 
-|Team Vision | |Ai learning path and practice path
+|Team Vision | |AI-Powered Learning Path & Practice Coach
 |---|---|
 | [Paini Devi Sravani] | [backend and AI prompts] |
 |[T.R.S.S.Moukthika] | [Deploying the app] |
