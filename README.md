@@ -44,32 +44,28 @@ That last part is what we're proudest of. The plan responds to how your week act
 | Start | Your plan |
 <img width="1533" height="576" alt="image" src="https://github.com/user-attachments/assets/8b14e7e4-d52d-41eb-8bc9-dfda1ce71580" />
 
-
-|---|---|
 | 
 
-Home(<img width="1527" height="722" alt="image" src="https://github.com/user-attachments/assets/4fc93c32-517a-40db-bbdb-a4d93cee3ad3" />
-
+Home
+<img width="1527" height="722" alt="image" src="https://github.com/user-attachments/assets/4fc93c32-517a-40db-bbdb-a4d93cee3ad3" />
 
  | 
 
-Plan(<img width="1511" height="723" alt="image" src="https://github.com/user-attachments/assets/85759d52-8350-47ad-89b5-020728617ee0" />)
-
+Plan
+<img width="1511" height="723" alt="image" src="https://github.com/user-attachments/assets/85759d52-8350-47ad-89b5-020728617ee0" />
 
  |
 
 | Quiz |
 | 
-
-Quiz(<img width="1512" height="727" alt="image" src="https://github.com/user-attachments/assets/9aa67742-ecd7-4bd1-9eba-40d52ece92bb" />)
-(<img width="1518" height="735" alt="image" src="https://github.com/user-attachments/assets/afbc379a-e738-44e0-a2d3-ada165f3d36a" />)
-
+<img width="1512" height="727" alt="image" src="https://github.com/user-attachments/assets/9aa67742-ecd7-4bd1-9eba-40d52ece92bb" />
+<img width="1518" height="735" alt="image" src="https://github.com/user-attachments/assets/afbc379a-e738-44e0-a2d3-ada165f3d36a" />
 
  |
 
 | Re-plan after a rough week |
 | 
-(<img width="1513" height="726" alt="image" src="https://github.com/user-attachments/assets/b201c017-32e9-4113-990d-512c2252af4c" />)
+<img width="1513" height="726" alt="image" src="https://github.com/user-attachments/assets/b201c017-32e9-4113-990d-512c2252af4c" />
 
  |
 
