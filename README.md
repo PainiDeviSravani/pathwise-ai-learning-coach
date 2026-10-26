@@ -48,12 +48,12 @@ That last part is what we're proudest of. The plan responds to how your week act
 |---|---|
 | 
 
-![Home](<img width="1527" height="722" alt="image" src="https://github.com/user-attachments/assets/4fc93c32-517a-40db-bbdb-a4d93cee3ad3" />
+Home(<img width="1527" height="722" alt="image" src="https://github.com/user-attachments/assets/4fc93c32-517a-40db-bbdb-a4d93cee3ad3" />
 
 
  | 
 
-![Plan](<img width="1511" height="723" alt="image" src="https://github.com/user-attachments/assets/85759d52-8350-47ad-89b5-020728617ee0" />)
+Plan(<img width="1511" height="723" alt="image" src="https://github.com/user-attachments/assets/85759d52-8350-47ad-89b5-020728617ee0" />)
 
 
  |
@@ -61,7 +61,7 @@ That last part is what we're proudest of. The plan responds to how your week act
 | Quiz |
 | 
 
-![Quiz](<img width="1512" height="727" alt="image" src="https://github.com/user-attachments/assets/9aa67742-ecd7-4bd1-9eba-40d52ece92bb" />)
+Quiz(<img width="1512" height="727" alt="image" src="https://github.com/user-attachments/assets/9aa67742-ecd7-4bd1-9eba-40d52ece92bb" />)
 (<img width="1518" height="735" alt="image" src="https://github.com/user-attachments/assets/afbc379a-e738-44e0-a2d3-ada165f3d36a" />)
 
 
