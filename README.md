@@ -129,10 +129,11 @@ We'd rather you hear these from us:
 
 ## The team
 
-|Team Vision | |AI-Powered Learning Path & Practice Coach
-|---|---|
-| [Paini Devi Sravani] | [backend and AI prompts] |
-|[T.R.S.S.Moukthika] | [Deploying the app] |
-| [D.chandana] | [frontend and design] |
+Team Vision 
+AI-Powered Learning Path & Practice Coach
 
-Built for [], 2026.
+Paini Devi Sravani [backend and AI prompts] 
+T.R.S.S.Moukthika [Deploying the app]
+D.chandana [frontend and design]
+
+Built for [HACKTOBERFEST2026], 2026.
