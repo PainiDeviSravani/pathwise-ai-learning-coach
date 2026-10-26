@@ -1,7 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-const API = import.meta.env.VITE_API_URL||"http://localhost:8000";
-
+const API = "https://pathwise-backend-vzny.onrender.com";
 async function post(path, body) {
   const r = await fetch(API + path, {
     method: "POST",
