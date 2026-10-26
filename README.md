@@ -1,4 +1,4 @@
-# PathWise AI
+# PathWise AI Learning Coach
 
 **A study planner that doesn't give up on you when you fall behind.**
 
